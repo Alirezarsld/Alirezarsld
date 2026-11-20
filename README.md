@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Alireza Rasoulzadeh, backend engineer working on retrieval and LLM systems" src="assets/header-light.svg" width="100%">
+  <img alt="Alireza Rasoulzadeh, backend engineer working with Python and Django" src="assets/header-light.svg" width="100%">
 </picture>
 
 <br>
 
-Backend engineer working with Python and Django, with a focus on retrieval and LLM systems. Currently building AsanOption and UKJobHunters.
+Backend engineer working with Python and Django. Currently building AsanOption and UKJobHunters.
 
 ## Selected work
 
@@ -48,8 +48,4 @@ An internet TV and learning platform for Azad University: live and recorded vide
 
 ## Stack
 
-`Python` `Django` `DRF` `Celery` `Redis` `PostgreSQL` `RAG` `LLMs`
-
-## Contact
-
-[alirezarsld@gmail.com](mailto:alirezarsld@gmail.com)
+`Python` `Django` `DRF` `Celery` `Redis` `PostgreSQL`
