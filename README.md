@@ -49,3 +49,7 @@ An internet TV and learning platform for Azad University: live and recorded vide
 ## Stack
 
 `Python` `Django` `DRF` `Celery` `Redis` `PostgreSQL` `RAG` `LLMs`
+
+## Contact
+
+[alirezarsld@gmail.com](mailto:alirezarsld@gmail.com)
