@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 214" width="1000" height="214" role="img" aria-labelledby="ht">
+  <title id="ht">Alireza Rasoulzadeh, backend engineer</title>
+  <circle cx="8" cy="30" r="4" fill="#2dd4bf">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="22" y="35" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" opacity="0">Building AsanOption &amp; UKJobHunters
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze"/>
+  </text>
+  <text x="4" y="108" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="600" letter-spacing="-1.5" fill="#e6edf3" opacity="0">Alireza Rasoulzadeh
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.2s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="4" y="144" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#8b949e" opacity="0">Backend engineer working on retrieval and LLM systems.
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.6s" fill="freeze"/>
+  </text>
+  <line x1="4" y1="176" x2="996" y2="176" stroke="#30363d" stroke-width="1"/>
+  <rect x="4" y="175" width="0" height="2" fill="#2dd4bf">
+    <animate attributeName="width" from="0" to="72" dur="0.9s" begin="1s" fill="freeze"/>
+  </rect>
+  <text x="4" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="0.4" fill="#8b949e" opacity="0">Python  ·  Django  ·  Celery  ·  Redis  ·  PostgreSQL
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.3s" fill="freeze"/>
+  </text>
+</svg>
