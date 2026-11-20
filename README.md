@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Alireza Rasoulzadeh, backend engineer working with Python and Django" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=2">
+  <img alt="Alireza Rasoulzadeh, backend engineer working with Python and Django" src="assets/header-light.svg?v=2" width="100%">
 </picture>
 
 <br>
@@ -13,9 +13,9 @@ Backend engineer working with Python and Django. Currently building AsanOption a
 ### AsanOption
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/asanoption-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/asanoption-light.svg">
-  <img alt="Illustrative product flow: market data, data check, option chain, strategy, portfolio risk. Stale or thin data produces no figure." src="assets/asanoption-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/asanoption-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/asanoption-light.svg?v=2">
+  <img alt="Illustrative product flow: market data, data check, option chain, strategy, portfolio risk. Stale or thin data produces no figure." src="assets/asanoption-light.svg?v=2" width="100%">
 </picture>
 
 A web platform that makes options simple and understandable for crypto and Iranian-market traders, with analytics, risk tools and built-in AI. Source is private.
@@ -33,9 +33,9 @@ A web platform that helps international professionals find UK jobs with employer
 ### mini-rag-service
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/flow-light.svg">
-  <img alt="Illustrative retrieval flow: query, BM25 and vector search, RRF, MMR, context" src="assets/flow-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/flow-light.svg?v=2">
+  <img alt="Illustrative retrieval flow: query, BM25 and vector search, RRF, MMR, context" src="assets/flow-light.svg?v=2" width="100%">
 </picture>
 
 A hybrid retrieval API. BM25 and vector search are fused with Reciprocal Rank Fusion, then re-ranked with MMR to keep the returned context diverse. Built with Django REST framework, with Persian-language support, and Claude-ready. MIT licensed.
